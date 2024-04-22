@@ -1,0 +1,77 @@
+.navbar{
+    background: #000;
+    height: 50px;
+    width: 700px;
+    border-radius: 100px;
+    margin-left: 800px;
+    z-index: 10;
+    position: sticky ;
+    top: 20px;
+    list-style: none;
+    
+}
+.navbar-1{
+    list-style: none;
+}
+
+.bar{
+    font-size: 20px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    text-decoration: none  ;
+    color: #f3ecec  ;
+    height: 20px;
+    width: 110px;
+    font-size: 20px;
+    border-radius: 50px;
+    /* list-style: none; */
+}
+.bar:hover{
+    text-decoration: underline;
+    color:orange
+} 
+.Apply_now{
+    height: 60px;
+    width: 200px;
+    background: #000;
+    border-radius: 100px;
+}
+.Apply{
+    margin-top: -45px;  
+    margin-left: 50px;
+    z-index: 20;
+    color: #f3ecec;
+    font-size: 20px;
+}
+.Apply::after{
+    content: "";
+    height: 2px;
+    display: block;
+    transition: 0.2s linear;
+    background-color: #fffafa;
+    width: 0px;
+}
+.Apply_a{
+    color:white;
+    text-decoration: none;
+}
+.Apply_a:hover{
+    color: orange;
+}
+.Apply:hover::after{
+    width: 100px;
+    
+    
+}
+.team{
+    margin-top: 20px;
+}
+.tagline{
+    margin-top: 20px;
+    margin-left: 950px;
+    font-size: 20px;
+    color: rgba(126, 123, 123, 0.87);
+    width: 50px;
+    font-size: 80px;
+}

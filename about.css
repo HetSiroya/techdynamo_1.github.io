@@ -1,0 +1,103 @@
+.bar{
+    font-size: 20px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    text-decoration: none  ;
+    color: #f3ecec  ;
+    height: 20px;
+    width: 110px;
+    font-size: 20px;
+    border-radius: 50px;
+
+}
+.bar:hover{
+    text-decoration: underline;
+    color:orange
+} 
+.navbar{
+    background: #000;
+    height: 50px;
+    width: 700px;
+    border-radius: 50px;
+    margin-left: 800px;
+    z-index: 10;
+    position: sticky ;
+    top: 20px;
+    list-style: none;
+    
+}
+.navbar-1{
+    list-style: none;
+}
+.info{
+    font-size: 30px;
+    margin: 10px;
+}
+#about{
+    font-size: 50px;
+}
+.info_1{
+    margin-top: 50px;
+}
+.info_2{
+    margin-top: 50px;
+}
+.info_3{
+    margin-top: 50px;
+}
+.info_4{
+    margin-top: 50px;
+}
+.Collobration{
+    margin-top: 100px;
+}
+.alphabit{
+    margin-top: 150px;
+    margin-left: 50px;
+    background-image: url(Alphabit_Logo_Black.png);
+    background-size: 60% ;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 500px;
+}
+.alphabit_socialmedia{
+    float: left;
+    margin-left: 250px;
+}
+#alphabit{
+    margin-left: 500px;
+    font-size: 30px;
+    margin-top: -500px;
+}
+#alphabit_insta{
+    margin-left: 1100px;
+}
+/* #alphabit_gmail{
+    margin-left: 1150px;
+    margin-top: -50px;
+
+}
+
+#alphabit_linkdin{
+    margin-left: 1500px;
+    
+} */
+
+.influitiveweb{
+    margin-top: 200px;
+    margin-left: 10px;
+    background-image: url(influtive.jpg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 500px;
+}
+#influitiveweb{
+    margin-left: 500px;
+    font-size: 30px;
+    margin-top: -310px;
+}
+.influtiveweb_socialmedia{
+    margin-left: 250px;
+}

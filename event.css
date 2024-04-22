@@ -1,0 +1,89 @@
+.navbar{
+    background: #000;
+    height: 50px;
+    width: 700px;
+    border-radius: 100px;
+    margin-left: 800px;
+    z-index: 10;
+    position: sticky ;
+    top: 20px;
+    list-style: none;
+    
+}
+.navbar-1{
+    list-style: none;
+}
+
+
+.bar{
+    font-size: 20px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    text-decoration: none  ;
+    color: #f3ecec  ;
+    height: 20px;
+    width: 110px;
+    font-size: 20px;
+    border-radius: 50px;
+    /* list-style: none; */
+}
+.bar:hover{
+    text-decoration: underline;
+    /* background-color: aliceblue; */
+    color:orange
+} 
+.weninar_image_1{
+    background-image: url(webinar.jpg);
+    height:400px;
+    width: 400px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-left: 900px;
+    margin-top: -200px;
+
+}
+.icon{
+    background-image: url(pngtree-webinarforumonlineseminarwebsite-line-icon--vector-isola-png-image_3769688-removebg-preview.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height:250px;
+    width: 250px;
+    margin-top: -200px;
+    margin-left: 200px;
+}
+h1{
+    margin-top: 80px;
+}
+ul li {
+    font-size: 30px;
+    margin-top: 50px;
+}
+.weninar_image_2{
+    background-image: url(Cyber\ webinar\ .jpg);
+    height:400px;
+    width: 400px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-left: 900px;
+    margin-top: -290px;
+}
+.icon_2{
+    background-image: url(9094815-removebg-preview.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height:150px;
+    width: 150px;
+    margin-top: -100px;
+    margin-left: 233px;
+}
+h1{
+    transition: 2s;   
+    width: 800px;
+}
+h1:hover{
+    text-decoration: underline;
+    width: 800px;
+    height: 45px;
+    background: #797575f1;
+}
